@@ -1,43 +1,56 @@
-# Blender MTL File: 'None'
-# Material Count: 4
-
-newmtl 1e0907a6_6105_4e4f_8d3d_e0a8b518eded.001
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.002734 0.001366 0.007193
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
+# material "Grille"
+newmtl 1e0907a6_6105_4e4f_8d3d_e0a8b518eded
 illum 1
+Ka 0 0 0
+Kd 1 0 0
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+map_Ka plein.png
+map_Kd plein.png
 
-newmtl 9246e487_e122_405e_9ac6_af4e17e84934.001
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.364706 0.325490 0.305882
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
+# material "Marbre noir"
+newmtl 9246e487_e122_405e_9ac6_af4e17e84934
 illum 1
-map_Kd D:\\Vilnius Tech\\BBD\\anatole\\Marble_Emperador_Silver_Dark.png
+Ka 0 0 0
+Kd 0.364706 0.32549 0.305882
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+map_Ka Marble_Emperador_Silver_Dark.png
+map_Kd Marble_Emperador_Silver_Dark.png
 
-newmtl 987fd625_f46d_4868_9114_fdd03ff2c17c.001
-Ns 0.150000
-Ka 1.000000 1.000000 1.000000
+# material "Laiton"
+newmtl 987fd625_f46d_4868_9114_fdd03ff2c17c
+illum 1
+Ka 0 0 0
 Kd 0.827451 0.678431 0.411765
-Ks 1.000000 1.000000 1.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
+Ks 1 1 1
+Tf 1 1 1
+d 1
+Tr 0
+Ns 0.15
 
-newmtl ac0cdf7d_949b_4665_9cae_d11c81080c2c.001
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.058823 0.058823 0.058823
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
+# material "Default Material"
+newmtl Default_Material
 illum 1
+Ka 0.792157 0.211765 0.0627451
+Kd 1 0 0
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+
+# material "Noir"
+newmtl ac0cdf7d_949b_4665_9cae_d11c81080c2c
+illum 1
+Ka 0 0 0
+Kd 0.0588235 0.0588235 0.0588235
+Ks 0 0 0
+Tf 1 1 1
+d 1
+Tr 0
+
+
