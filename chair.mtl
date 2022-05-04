@@ -1,0 +1,98 @@
+# Blender MTL File: 'None'
+# Material Count: 8
+
+newmtl bolts_m
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\bolts_m_normal.png
+map_Kd D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\bolts_m_baseColor.png
+
+newmtl cable_m
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\cable_m_normal.png
+map_Kd D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\cable_m_baseColor.png
+
+newmtl cushion_m
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\cushion_m_normal.png
+map_Kd D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\cushion_m_baseColor.png
+
+newmtl frame_m
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\frame_m_normal.png
+map_Kd D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\frame_m_baseColor.png
+
+newmtl lampwood_m
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\lampwood_m_normal.png
+map_Kd D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\lampwood_m_baseColor.png
+
+newmtl metal_m
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\metal_m_normal.png
+map_Kd D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\metal_m_baseColor.png
+
+newmtl wood1_m
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\wood1_m_normal.png
+map_Kd D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\wood1_m_baseColor.png
+
+newmtl wood_m
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\wood_m_normal.png
+map_Kd D:\\Vilnius Tech\\BBD\\blend\\corner\\textures\\wood_m_baseColor.png
