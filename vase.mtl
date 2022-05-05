@@ -1,0 +1,37 @@
+# Blender 3.1.2 MTL File: 'None'
+# www.blender.org
+
+newmtl aiStandardSurface1SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.503187 0.421553 0.692884
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump  -bm 1.000000 aiStandardSurface1SG_normal.png
+
+newmtl aiStandardSurface2SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  aiStandardSurface2SG_baseColor.jpeg
+map_Bump  -bm 1.000000 aiStandardSurface2SG_normal.png
+
+newmtl aiStandardSurface3SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  aiStandardSurface3SG_baseColor.jpeg
+map_Bump  -bm 1.000000 aiStandardSurface3SG_normal.png
