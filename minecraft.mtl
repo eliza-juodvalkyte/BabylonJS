@@ -1,7 +1,7 @@
 # Blender 3.1.2 MTL File: 'None'
 # www.blender.org
 
-newmtl 02_-_Default_baseColor
+newmtl 02_-_Default
 Ns 360.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
