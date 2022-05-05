@@ -1,7 +1,7 @@
 # Blender 3.1.2 MTL File: 'None'
 # www.blender.org
 
-newmtl PC_Default
+newmtl Table_Default
 Ns 34.930569
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd  PC_Default.jpeg
+map_Kd  Table_Default.jpeg
 
 newmtl Material_4
 Ns 250.000000
