@@ -10,6 +10,6 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Bump D:\\Vilnius Tech\\BBD\\blend\\pc\\textures\\01___Default_normal.png
-map_Kd D:\\Vilnius Tech\\BBD\\blend\\pc\\textures\\01___Default_baseColor.jpeg
-map_Ke D:\\Vilnius Tech\\BBD\\blend\\pc\\textures\\01___Default_emissive.jpeg
+map_Bump 01___Default_normal.png
+map_Kd 01___Default_baseColor.jpeg
+map_Ke 01___Default_emissive.jpeg
