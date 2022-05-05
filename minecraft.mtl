@@ -1,14 +1,13 @@
-# Blender 3.1.2 MTL File: 'uploads_files_2625902_steve+minecraft.blend'
+# Blender 3.1.2 MTL File: 'None'
 # www.blender.org
 
-newmtl Steve
-Ns 490.000000
+newmtl 02_-_Default
+Ns 360.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
-Ks 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
-illum 1
-map_Kd  skin.png
-map_Ks  skin.png
+illum 2
+map_Kd  02_-_Default_baseColor.png
