@@ -1,8 +1,8 @@
-# Blender MTL File: 'None'
-# Material Count: 2
+# Blender 3.1.2 MTL File: 'None'
+# www.blender.org
 
-newmtl PlantMaterial
-Ns 250.000000
+newmtl bamboo_stalk.png
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.500000 0.500000 0.500000
@@ -10,9 +10,10 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
+map_Kd  bamboo_stalk.png_baseColor.png
 
-newmtl PotMaterial
-Ns 250.000000
+newmtl brown_concrete_powder.png
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.500000 0.500000 0.500000
@@ -20,3 +21,15 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
+map_Kd  brown_concrete_powder.png_baseColor.png
+
+newmtl white_concrete_powder.png
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  white_concrete_powder.png_baseColor.png
