@@ -30,7 +30,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd D:\\Vilnius Tech\\BBD\\blend\\shoe\\textures\\08_-_Default_0_baseColor.jpeg
+map_Kd 08_-_Default_0_baseColor.jpeg
 
 newmtl 10_-_Default
 Ns 8.385636
