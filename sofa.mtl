@@ -1,33 +1,23 @@
-# Blender 3.1.2 MTL File: 'Sofa.blend'
+# Blender 3.1.2 MTL File: 'None'
 # www.blender.org
 
-newmtl Material
-Ns 360.000000
+newmtl 06___Default
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
-Ks 0.086364 0.086364 0.086364
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
-map_Kd  -o 12 12 12 ..\TexturesCom_Carpet0012_1_seamless_S.jpg
-
-newmtl Material.001
-Ns 250.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.116665 0.052736 0.008494
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
+map_Kd  06___Default_baseColor.jpeg
 
-newmtl Material.002
-Ns 250.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.116745 0.046267 0.004124
+newmtl 07___Default
+Ns 650.947998
+Ka 0.624424 0.624424 0.624424
+Kd 0.800000 0.800000 0.800000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
-illum 2
+illum 3
